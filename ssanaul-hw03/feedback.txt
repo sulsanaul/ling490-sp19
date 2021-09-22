@@ -1,0 +1,5 @@
+In more than one place in Trie, you incorrectly used self when calling a method.
+
+After fixing those errors, the code appears to hang.
+
+It looks like there might be a fundamental misunderstanding of what needs to happen in store and lookup.
